@@ -1,7 +1,7 @@
 
 # Leet Encoder
 
-### Simple Program to encode and decode [leet](https://en.wikipedia.org/wiki/Leet)
+### Simple C++ Program to encode and decode [leet](https://en.wikipedia.org/wiki/Leet)
 
 ---
 
