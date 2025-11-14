@@ -1,0 +1,8 @@
+/.vs/
+/1337 encoder/
+/x64/
+
+*.slnx
+*.vcxproj
+*.filters
+*.user
