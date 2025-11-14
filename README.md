@@ -6,4 +6,6 @@
 ---
 
 ## Usage:
-Run the exe and follow the onscreen instructions
+- Download the the exe from the [releases](https://github.com/MineFartS/leet-encoder/releases/latest) tab
+- Run the exe
+- Follow the onscreen instructions
